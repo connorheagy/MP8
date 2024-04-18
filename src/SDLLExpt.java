@@ -3,6 +3,7 @@ import java.util.ListIterator;
 
 /**
  * Some simple experiments with SimpleDLLs
+ * @author Sam R. (taken from linked-list lab)
  */
 public class SDLLExpt {
   public static void main(String[] args) throws Exception {

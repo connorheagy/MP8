@@ -1,5 +1,6 @@
 /**
  * Nodes for doubly-linked structures.
+ * @author Sam R. (taken from linked-list lab)
  */
 public class Node2<T> {
   // +--------+------------------------------------------------------
